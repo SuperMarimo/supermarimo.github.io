@@ -1,0 +1,93 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+	background: #018574;
+}
+.container {
+	display: flex;
+	flex-flow: row nowrap;
+	padding: 10px;
+}
+.menu {
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.button {
+	margin-bottom: 10px;
+}
+.content {
+	margin: 20px;
+}
+img.photo {
+	width: 400px;
+}
+div#dancing-cat {
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+
+/*.row {
+	display: flex;
+}
+
+[class*="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.col-1 {
+	flex-basis: 8.33%;
+}
+
+.col-2 {
+	flex-basis: 16.66%;
+}
+
+.col-3 {
+	flex-basis: 24.99%;
+}
+
+.col-4 {
+	flex-basis: 33.32%;
+}
+
+.col-5 {
+	flex-basis: 41.65%;
+}
+
+.col-6 {
+	flex-basis: 49.98%;
+}
+
+.col-7 {
+	flex-basis: 58.31%;
+}
+
+.col-8 {
+	flex-basis: 66.64%;
+}
+
+.col-9{
+	flex-basis: 74.97%;
+}
+
+.col-10 {
+	flex-basis: 83.3%;
+}
+
+.col-11 {
+	flex-basis: 91.63%;
+}
+
+.col-12 {
+	flex-basis: 99.96%;
+}
+*/
